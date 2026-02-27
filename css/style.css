@@ -28,12 +28,11 @@ header div{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 75px 60px 0;
+    margin: 40px 60px 0;
 }
 
 header img{
     display: block;
-    margin: 75px 0 0
 }
 
 h1{
